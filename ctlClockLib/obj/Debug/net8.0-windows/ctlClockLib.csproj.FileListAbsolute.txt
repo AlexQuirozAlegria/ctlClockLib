@@ -1,0 +1,14 @@
+C:\Users\quiro\source\repos\ctlClockLib\bin\Debug\net8.0-windows\ctlClockLib.deps.json
+C:\Users\quiro\source\repos\ctlClockLib\bin\Debug\net8.0-windows\ctlClockLib.dll
+C:\Users\quiro\source\repos\ctlClockLib\bin\Debug\net8.0-windows\ctlClockLib.pdb
+C:\Users\quiro\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClockLib.ctlClock.resources
+C:\Users\quiro\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClockLib.csproj.GenerateResource.cache
+C:\Users\quiro\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClockLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quiro\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClockLib.AssemblyInfoInputs.cache
+C:\Users\quiro\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClockLib.AssemblyInfo.cs
+C:\Users\quiro\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClockLib.csproj.CoreCompileInputs.cache
+C:\Users\quiro\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClockLib.dll
+C:\Users\quiro\source\repos\ctlClockLib\obj\Debug\net8.0-windows\refint\ctlClockLib.dll
+C:\Users\quiro\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClockLib.pdb
+C:\Users\quiro\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ref\ctlClockLib.dll
+C:\Users\quiro\source\repos\ctlClockLib\obj\Debug\net8.0-windows\ctlClockLib.ctlAlarmClock.resources

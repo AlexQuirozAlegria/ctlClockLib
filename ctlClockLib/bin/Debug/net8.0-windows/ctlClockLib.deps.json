@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ctlClockLib/1.0.0": {
+        "runtime": {
+          "ctlClockLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ctlClockLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
